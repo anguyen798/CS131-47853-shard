@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2a21053313142345",
+        "id": "84863556190770b5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f322dd9b3450bcf",
+            "id": "71fe5e5ca8ff0e8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Reference/Chapter-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "203ca0460453d3ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Reference/Chapter-1.md",
+                "file": "2_Reference/Lecture-10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Reference/Chapter-1.md",
+                "file": "2_Reference/Lecture-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Reference/Chapter-1.md",
+                "file": "2_Reference/Lecture-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Reference/Chapter-1.md"
+                "file": "2_Reference/Lecture-10.md"
               }
             }
           },
@@ -169,17 +156,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "203ca0460453d3ca",
+  "active": "71fe5e5ca8ff0e8e",
   "lastOpenFiles": [
+    "2_Reference/Lecture-9.md",
+    "2_Reference/Lecture-8.md",
+    "2_Reference/Lecture-6.md",
     "2_Reference/Lecture-4.md",
-    "3_Files/Pasted image 20230515194807.png",
     "2_Reference/Lecture-3.md",
+    "2_Reference/Lecture-5.md",
+    "2_Reference/Lecture-7.md",
+    "2_Reference/Lecture-10.md",
+    "4_Templates/Powerpoint.md",
     "2_Reference/Lecture-2.md",
     "2_Reference/Lecture-1.md",
     "2_Reference/Chapter-1.md",
     "1_Zettlekasten/De Morgan's Law.md",
+    "4_Templates/MapOfContent.md",
+    "4_Templates/Permanent.md",
+    "4_Templates/Fleeting.md",
+    "4_Templates",
+    "3_Files/Pasted image 20230515194807.png",
     "Python.md",
-    "Untitled",
     "3_Files",
     "Test.md",
     "2_Reference",
